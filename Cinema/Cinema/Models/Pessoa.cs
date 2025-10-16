@@ -16,11 +16,14 @@ namespace Cinema.Models
         public int SexoId { get; set; }
         // Propriedade de Navegação
         [ForeignKey("SexoId")]
-        public required Sexo Sexo { get; set; }
+        public Sexo? Sexo { get; set; }
 
         public int EnderecoId { get; set; }
         // Propriedade de Navegação
         [ForeignKey("EnderecoId")]
-        public required Endereco Endereco { get; set; }
+        public Endereco? Endereco { get; set; }
+
+        // Propriedade de Navegação - Relação Muitos para Muitos
+        public List<OficiosDePessoas>? OficiosDePessoas { get; set; }
     }
 }

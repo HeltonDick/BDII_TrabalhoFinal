@@ -1,10 +1,9 @@
-﻿using Cinema.Models;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace EFTest.Models
+namespace Cinema.Models
 {
-    public class Cinema
+    public class Predio
     {
         [Key]
         public int Id { get; set; }
@@ -15,6 +14,6 @@ namespace EFTest.Models
         public int EnderecoId { get; set; }
         // Propriedade de navegação
         [ForeignKey("EnderecoId")]
-        public required Endereco Endereco { get; set; }
+        public Endereco Endereco { get; set; }
     }
 }

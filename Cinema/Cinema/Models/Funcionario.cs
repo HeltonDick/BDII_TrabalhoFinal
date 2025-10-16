@@ -14,6 +14,6 @@ namespace Cinema.Models
         public int PessoaId { get; set; }
         // Propriedade de Navegação
         [ForeignKey("PessoaId")]
-        public required Pessoa Pessoa { get; set; }
+        public Pessoa? Pessoa { get; set; }
     }
 }
