@@ -8,12 +8,12 @@ namespace Cinema.Models
     {
         public int GeneroId { get; set; }
         // Propriedade de navegação
-        [ForeignKey("GeneroId")]
+        [ForeignKey(nameof(GeneroId))]
         public Genero? Genero { get; set; }
 
         public int FilmeId { get; set; }
         // Propriedade de navegação
-        [ForeignKey("FilmeId")]
+        [ForeignKey(nameof(FilmeId))]
         public Filme? Filme { get; set; }
     }
 }

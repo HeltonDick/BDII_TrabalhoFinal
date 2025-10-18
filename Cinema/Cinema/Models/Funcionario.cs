@@ -8,12 +8,12 @@ namespace Cinema.Models
         [Key]
         public int Id { get; set; }
         public string? Cargo { get; set; }
-        public DateTime DataAdmissao { get; set; }
-        public decimal Salario { get; set; }
+        public required DateTime DataAdmissao { get; set; }
+        public double Salario { get; set; }
 
         public int PessoaId { get; set; }
         // Propriedade de Navegação
-        [ForeignKey("PessoaId")]
+        [ForeignKey(nameof(PessoaId))]
         public Pessoa? Pessoa { get; set; }
     }
 }

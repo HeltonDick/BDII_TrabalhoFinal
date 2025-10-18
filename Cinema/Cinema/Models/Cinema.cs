@@ -13,7 +13,7 @@ namespace Cinema.Models
 
         public int EnderecoId { get; set; }
         // Propriedade de navegação
-        [ForeignKey("EnderecoId")]
-        public Endereco Endereco { get; set; }
+        [ForeignKey(nameof(EnderecoId))]
+        public Endereco? Endereco { get; set; }
     }
 }

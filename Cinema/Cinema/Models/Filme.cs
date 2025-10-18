@@ -13,11 +13,15 @@ namespace Cinema.Models
         public string? Desc { get; set; }
         public DateTime DataFilme { get; set; }
 
+        public List<EstudiosFilmes>? EstudiosFilmes { get; set; }
+
         public List<GenerosFilmes>? GenerosFilmes { get; set; }
 
         public int ClassificacaoId { get; set; }
         // Propriedade de navegação
-        [ForeignKey("ClassificacaoId")]
+        [ForeignKey(nameof(ClassificacaoId))]
         public Classificacao? Classificacao { get; set; }
+
+        
     }
 }
