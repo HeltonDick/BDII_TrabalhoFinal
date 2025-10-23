@@ -1,90 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\",
+  "WorkspaceRootPath": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\data\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\data\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\tipodesala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\tipodesala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\salaspadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\salaspadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\oficiosdepessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\oficiosdepessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\oficio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\oficio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\generosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\generosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\estudiosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\estudiosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\estudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\estudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\dimensao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\dimensao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\assento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\assento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\salasdocinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\salasdocinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\views\\shared\\img\\ico.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\shared\\img\\ico.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,8 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ico.png - PNG [1920x1080, 24 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png",
+              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\img\\ico.png",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
+              "RelativeToolTip": "Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-23T21:00:34.108Z",
+              "EditorCaption": " - PNG [1920x1080, 24 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cinema\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T20:43:02.268Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -107,260 +56,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Filme.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Filme.cs",
-              "RelativeToolTip": "Cinema\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:26:37.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Funcionario.cs",
-              "RelativeToolTip": "Cinema\\Models\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:38:39.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Genero.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Genero.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Genero.cs",
-              "RelativeToolTip": "Cinema\\Models\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:16:47.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GenerosFilmes.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\GenerosFilmes.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\GenerosFilmes.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\GenerosFilmes.cs",
-              "RelativeToolTip": "Cinema\\Models\\GenerosFilmes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:35:52.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Idioma.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Idioma.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Idioma.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Idioma.cs",
-              "RelativeToolTip": "Cinema\\Models\\Idioma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T22:33:37.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ingresso.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Ingresso.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Ingresso.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Ingresso.cs",
-              "RelativeToolTip": "Cinema\\Models\\Ingresso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:21:48.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Oficio.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Oficio.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Oficio.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Oficio.cs",
-              "RelativeToolTip": "Cinema\\Models\\Oficio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:44:36.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OficiosDePessoas.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\OficiosDePessoas.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\OficiosDePessoas.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\OficiosDePessoas.cs",
-              "RelativeToolTip": "Cinema\\Models\\OficiosDePessoas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:44:41.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CinemaContext.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Data\\CinemaContext.cs",
-              "RelativeDocumentMoniker": "Cinema\\Data\\CinemaContext.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Data\\CinemaContext.cs",
-              "RelativeToolTip": "Cinema\\Data\\CinemaContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA3wCwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:03:13.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoDeSala.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\TipoDeSala.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\TipoDeSala.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\TipoDeSala.cs",
-              "RelativeToolTip": "Cinema\\Models\\TipoDeSala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:16:16.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalasPadrao.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\SalasPadrao.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\SalasPadrao.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\SalasPadrao.cs",
-              "RelativeToolTip": "Cinema\\Models\\SalasPadrao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:12:37.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sessao.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Sessao.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Sessao.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Sessao.cs",
-              "RelativeToolTip": "Cinema\\Models\\Sessao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:03:25.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EstudiosFilmes.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\EstudiosFilmes.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\EstudiosFilmes.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\EstudiosFilmes.cs",
-              "RelativeToolTip": "Cinema\\Models\\EstudiosFilmes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:28:39.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Estudio.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Estudio.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Estudio.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Estudio.cs",
-              "RelativeToolTip": "Cinema\\Models\\Estudio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:40:42.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Endereco.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Endereco.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Endereco.cs",
-              "RelativeToolTip": "Cinema\\Models\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:47:21.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dimensao.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Dimensao.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Dimensao.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Dimensao.cs",
-              "RelativeToolTip": "Cinema\\Models\\Dimensao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T22:32:18.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Cinema.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Cinema.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Cinema.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Cinema.cs",
-              "RelativeToolTip": "Cinema\\Models\\Cinema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:51:00.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Bairro.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Bairro.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Bairro.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Bairro.cs",
-              "RelativeToolTip": "Cinema\\Models\\Bairro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:49:34.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Assento.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Assento.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Assento.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Assento.cs",
-              "RelativeToolTip": "Cinema\\Models\\Assento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:30:41.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Pessoa.cs",
-              "RelativeToolTip": "Cinema\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:44:25.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SalasDoCinema.cs",
-              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\SalasDoCinema.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\SalasDoCinema.cs",
-              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\SalasDoCinema.cs",
-              "RelativeToolTip": "Cinema\\Models\\SalasDoCinema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:20:23.201Z"
             }
           ]
         }
