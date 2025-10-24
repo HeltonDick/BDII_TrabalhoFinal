@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\repository\\generosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\generosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cinema\\Repository\\IGenerosFilmesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,33 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ico.png - PNG [1920x1080, 24 bits, PNG]",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png",
-              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\img\\ico.png",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
-              "RelativeToolTip": "Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-23T21:00:34.108Z",
-              "EditorCaption": " - PNG [1920x1080, 24 bits, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Cinema\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T20:43:02.268Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -56,6 +43,70 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Filme.cs",
+              "RelativeToolTip": "Cinema\\Models\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:05:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerosFilmesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\GenerosFilmesRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\GenerosFilmesRepository.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\GenerosFilmesRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\GenerosFilmesRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwF8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:54:22.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenerosFilmesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:45:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ico.png - PNG [1920x1080, 24 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png",
+              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\img\\ico.png",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
+              "RelativeToolTip": "Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-23T21:00:34.108Z",
+              "EditorCaption": " - PNG [1920x1080, 24 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cinema\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T20:43:02.268Z",
+              "EditorCaption": ""
             }
           ]
         }
