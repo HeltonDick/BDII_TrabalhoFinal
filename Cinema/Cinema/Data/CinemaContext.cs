@@ -17,10 +17,11 @@ namespace Cinema.Data
         public DbSet<Classificacao> Classificacoes { get; set; }
         public DbSet<Oficio> Oficios { get; set; }
         public DbSet<OficiosDePessoas> OficiosDePessoas { get; set; }
-        public DbSet<Predio> Cinemas { get; set; }
+        public DbSet<Cinemas> Cinemas { get; set; }
         public DbSet<GenerosFilmes> GenerosFilmes { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Estudio> Estudios { get; set; }
+        public DbSet<EstudiosFilmes> EstudiosFilmes { get; set; }
         public DbSet<Funcionario> Funcionarios { get; set; }
         public DbSet<Pessoa> Pessoas { get; set; }
         public DbSet<Sexo> Sexos { get; set; }
@@ -29,19 +30,20 @@ namespace Cinema.Data
         public DbSet<TipoDeSala> TiposDeSalas { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Filme>().ToTable("Assento");
-            modelBuilder.Entity<Genero>().ToTable("Idioma");
-            modelBuilder.Entity<Filme>().ToTable("Bairro");
-            modelBuilder.Entity<Genero>().ToTable("Dimenssao");
+            modelBuilder.Entity<Assento>().ToTable("Assento");
+            modelBuilder.Entity<Idioma>().ToTable("Idioma");
+            modelBuilder.Entity<Bairro>().ToTable("Bairro");
+            modelBuilder.Entity<Dimenssao>().ToTable("Dimenssao");
             modelBuilder.Entity<Filme>().ToTable("Filme");
             modelBuilder.Entity<Genero>().ToTable("Genero");
-            modelBuilder.Entity<Filme>().ToTable("Classificacao");
-            modelBuilder.Entity<Genero>().ToTable("Oficio");
-            modelBuilder.Entity<Filme>().ToTable("OficioDePessoa");
-            modelBuilder.Entity<Genero>().ToTable("Cinema");
+            modelBuilder.Entity<Classificacao>().ToTable("Classificacao");
+            modelBuilder.Entity<Oficio>().ToTable("Oficio");
+            modelBuilder.Entity<OficiosDePessoas>().ToTable("OficioDePessoa");
+            modelBuilder.Entity<Cinemas>().ToTable("Cinema");
             modelBuilder.Entity<Filme>().ToTable("GeneroFilme");
             modelBuilder.Entity<Genero>().ToTable("Endereco");
             modelBuilder.Entity<Filme>().ToTable("Estudio");
+            modelBuilder.Entity<Genero>().ToTable("EstudioFilme");
             modelBuilder.Entity<Genero>().ToTable("Funcionario");
             modelBuilder.Entity<Genero>().ToTable("Pessoa");
             modelBuilder.Entity<Genero>().ToTable("Sexo");

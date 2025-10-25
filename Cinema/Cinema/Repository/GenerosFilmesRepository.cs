@@ -32,7 +32,7 @@ namespace Cinema.Repository
                 .Where(gf => gf.GeneroId == generoId && gf.FilmeId == filmeId)
                 .FirstOrDefaultAsync();
 
-            return generosFilmes;
+            return generosFilmes!;
         }
 
         public async Task<List<GenerosFilmes>> GetAll()

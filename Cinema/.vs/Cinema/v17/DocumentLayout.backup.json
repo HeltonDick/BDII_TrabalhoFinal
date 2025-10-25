@@ -1,26 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\",
+  "WorkspaceRootPath": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\repository\\generosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\estudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\estudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\estudiofilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\estudiofilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\data\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\data\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\cinemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\cinemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\iestudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\iestudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\iestudiofilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\iestudiofilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\assento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\assento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\generosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\generosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\estudiosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\estudiosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cinema\\Repository\\IGenerosFilmesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\views\\shared\\img\\ico.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\shared\\img\\ico.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\repository\\igenerosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\igenerosfilmesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,66 +78,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Filme.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Filme.cs",
-              "RelativeToolTip": "Cinema\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Cinemas.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Cinemas.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Cinemas.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Cinemas.cs",
+              "RelativeToolTip": "Cinema\\Models\\Cinemas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T21:05:01.918Z",
+              "WhenOpened": "2025-10-24T23:46:27.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudioFilmesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\EstudioFilmesRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\EstudioFilmesRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\EstudioFilmesRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\EstudioFilmesRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:05:53.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CinemaContext.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Data\\CinemaContext.cs",
+              "RelativeDocumentMoniker": "Cinema\\Data\\CinemaContext.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Data\\CinemaContext.cs",
+              "RelativeToolTip": "Cinema\\Data\\CinemaContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:12:05.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\EstudioRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\EstudioRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\EstudioRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\EstudioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:35:01.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\FilmeRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\FilmeRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\FilmeRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\FilmeRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:41:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEstudioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IEstudioRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\IEstudioRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IEstudioRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\IEstudioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:33:26.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEstudioFilmesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IEstudioFilmesRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\IEstudioFilmesRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IEstudioFilmesRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\IEstudioFilmesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:01:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assento.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Assento.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Assento.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Assento.cs",
+              "RelativeToolTip": "Cinema\\Models\\Assento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:47:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Endereco.cs",
+              "RelativeToolTip": "Cinema\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:46:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IFilmeRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\IFilmeRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IFilmeRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\IFilmeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:39:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "GenerosFilmesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\GenerosFilmesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\GenerosFilmesRepository.cs",
               "RelativeDocumentMoniker": "Cinema\\Repository\\GenerosFilmesRepository.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\GenerosFilmesRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\GenerosFilmesRepository.cs",
               "RelativeToolTip": "Cinema\\Repository\\GenerosFilmesRepository.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAiwF8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T20:54:22.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGenerosFilmesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs",
-              "RelativeDocumentMoniker": "Cinema\\Repository\\IGenerosFilmesRepository.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs",
-              "RelativeToolTip": "Cinema\\Repository\\IGenerosFilmesRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "EstudiosFilmes.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\EstudiosFilmes.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\EstudiosFilmes.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\EstudiosFilmes.cs",
+              "RelativeToolTip": "Cinema\\Models\\EstudiosFilmes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T20:45:10.844Z",
+              "WhenOpened": "2025-10-24T22:58:35.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ico.png - PNG [1920x1080, 24 bits, PNG]",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png",
-              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\img\\ico.png",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
-              "RelativeToolTip": "Cinema\\Views\\Shared\\img\\ico.png - PNG [1920x1080, 24 bits, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-23T21:00:34.108Z",
-              "EditorCaption": " - PNG [1920x1080, 24 bits, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Cinema\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Cinema\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T20:43:02.268Z",
+              "DocumentIndex": 12,
+              "Title": "IGenerosFilmesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "RelativeToolTip": "Cinema\\Repository\\IGenerosFilmesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:45:10.844Z",
               "EditorCaption": ""
             }
           ]
