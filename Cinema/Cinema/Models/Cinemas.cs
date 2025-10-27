@@ -11,6 +11,11 @@ namespace Cinema.Models
         public int Cnpj { get; set; }
         public string? Email { get; set; }
 
+        public int SalasDoCinemaId { get; set; }
+        // Propriedade de navegação
+        [ForeignKey(nameof(SalasDoCinema))]
+        public SalasDoCinema? SalaDeCinema { get; set; }
+
         public int EnderecoId { get; set; }
         // Propriedade de navegação
         [ForeignKey(nameof(EnderecoId))]

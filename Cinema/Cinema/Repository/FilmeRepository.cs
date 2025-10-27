@@ -41,12 +41,16 @@ namespace Cinema.Repository
 
         public Task<List<Filme>> GetByName(string name)
         {
-            throw new NotImplementedException();
+            var filmes = _context.Filmes
+                .Where(f => f.Titulo!.Contains(name))
+                .ToListAsync();
+            return filmes!;
         }
 
-        public Task Update(Filme filme)
+        public async Task Update(Filme filme)
         {
-            throw new NotImplementedException();
+            _context.Filmes.Update(filme);
+            await _context.SaveChangesAsync();
         }
     }
 }

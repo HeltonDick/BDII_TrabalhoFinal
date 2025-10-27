@@ -29,7 +29,6 @@ namespace Cinema.Models
         [ForeignKey(nameof(DimenssaoId))]
         public Dimenssao? Dimenssao { get; set; }
 
-        //public List<OficiosDePessoas>? OficiosDePessoas { get; set; }
         public List<Assento>? AssentosDaSala { get; set; }
     }
 }

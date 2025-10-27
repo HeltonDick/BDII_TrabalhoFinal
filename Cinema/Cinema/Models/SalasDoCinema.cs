@@ -7,10 +7,15 @@ namespace Cinema.Models
     {
         [Key]
         public int Id { get; set; }
-        public int Disponibilidade { get; set; }
+        public bool Disponibilidade { get; set; }
         public int SalasPadraoId { get; set; }
         //propriedade de navegação
         [ForeignKey(nameof(SalasPadraoId))]
         public SalasPadrao? SalasPadrao { get; set; }
+
+        public int AssentoId { get; set; }
+        //propriedade de navegação
+        [ForeignKey(nameof(AssentoId))]
+        public Assento? Assento { get; set; }
     }
 }

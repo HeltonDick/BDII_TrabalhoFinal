@@ -8,7 +8,6 @@ namespace Cinema.Models
         [Key]
         public int Id { get; set; }
         public DateTime? DataDaCompra { get; set; }
-        public int Preco { get; set; }
 
         public int PessoaId { get; set; }
         // Propriedade de Navegação

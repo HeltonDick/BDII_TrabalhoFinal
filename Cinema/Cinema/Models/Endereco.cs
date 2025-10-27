@@ -13,6 +13,7 @@ namespace Cinema.Models
         public string? Cep { get; set; }
         public string? Rua1 { get; set; }
         public string? Rua2 { get; set; }
+
         public int BairroId { get; set; }
         // Propriedade de Navegação
         [ForeignKey(nameof(BairroId))]
