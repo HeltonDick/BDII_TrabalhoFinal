@@ -26,7 +26,7 @@ namespace Cinema.Data
         public DbSet<Pessoa> Pessoas { get; set; }
         public DbSet<Sexo> Sexos { get; set; }
         public DbSet<SalasDoCinema> SalasDoCinema { get; set; }
-        public DbSet<SalasPadrao> SalasPadroes { get; set; }
+        public DbSet<SalasPadrao> SalasPadrao { get; set; }
         public DbSet<TipoDeSala> TiposDeSalas { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
