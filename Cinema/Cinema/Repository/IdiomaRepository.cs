@@ -38,7 +38,7 @@ namespace Cinema.Repository
         public Task<List<Idioma>> GetByName(string name)
         {
             var idiomas = _context.Idiomas
-                .Where(i => i.Name!
+                .Where(i => i.Nome!
                     .ToLower()
                     .Contains(name.ToLower())
                 )

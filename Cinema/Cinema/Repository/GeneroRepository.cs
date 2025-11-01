@@ -24,7 +24,7 @@ namespace Cinema.Repository
             return _context.SaveChangesAsync();
         }
 
-        public Task<Genero>? Get(int generoId)
+        public Task<Genero>? GetById(int generoId)
         {
             var genero = _context.Generos
                 .Where(g => g.Id == generoId)
@@ -42,7 +42,7 @@ namespace Cinema.Repository
         public Task<List<Genero>> GetByName(string name)
         {
             var generos = _context.Generos
-                .Where(g => g.Name!.Contains(name))
+                .Where(g => g.Nome!.Contains(name))
                 .ToListAsync();
             return generos!;
         }

@@ -25,7 +25,7 @@ namespace Cinema.Repository
             await _context.SaveChangesAsync();
         }
 
-        public Task<Estudio>? Get(int id)
+        public Task<Estudio>? GetById(int id)
         {
             var estudio = _context.Estudios
                 .Where(e => e.Id == id)

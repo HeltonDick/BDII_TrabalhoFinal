@@ -25,7 +25,7 @@ namespace Cinema.Repository
             return _context.SaveChangesAsync();
         }
 
-        public Task<OficiosDePessoas?> Get(int oficioId, int pessoaId)
+        public Task<OficiosDePessoas?> GetById(int oficioId, int pessoaId)
         {
             var oficioDePessoas = _context.OficiosDePessoas
                 .Where(op => op.OficioId == oficioId && op.PessoaId == pessoaId)

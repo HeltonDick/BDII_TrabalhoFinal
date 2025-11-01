@@ -24,7 +24,7 @@ namespace Cinema.Repository
             await _context.SaveChangesAsync();
         }
 
-        public async Task<GenerosFilmes>? Get(int generoId, int filmeId)
+        public async Task<GenerosFilmes>? GetById(int generoId, int filmeId)
         {
             var generosFilmes = await _context.GenerosFilmes
                 .Include(gf => gf.Genero)
@@ -82,7 +82,7 @@ namespace Cinema.Repository
             var generosFilmes = _context.GenerosFilmes
                 .Include(gf => gf.Genero)
                 .Include(gf => gf.Filme)
-                .Where(gf => gf.Genero!.Name!
+                .Where(gf => gf.Genero!.Nome!
                     .ToLower()
                     .Contains(generoName.ToLower())
                 )

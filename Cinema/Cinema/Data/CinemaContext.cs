@@ -28,6 +28,8 @@ namespace Cinema.Data
         public DbSet<SalasDoCinema> SalasDoCinema { get; set; }
         public DbSet<SalasPadrao> SalasPadrao { get; set; }
         public DbSet<TipoDeSala> TiposDeSalas { get; set; }
+        public DbSet<Sessao> Sessoes { get; set; }
+        public DbSet<Ingresso> Ingressos { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Assento>().ToTable("Assento");
@@ -50,6 +52,8 @@ namespace Cinema.Data
             modelBuilder.Entity<Filme>().ToTable("SalaDoCinema");
             modelBuilder.Entity<Genero>().ToTable("SalaPadrao");
             modelBuilder.Entity<Filme>().ToTable("TipoDeSalas");
+            modelBuilder.Entity<Sessao>().ToTable("Sessoes");
+            modelBuilder.Entity<Ingresso>().ToTable("Ingressos");
         }
     }
 }

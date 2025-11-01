@@ -11,7 +11,7 @@ namespace Cinema.Repository
         public Task<List<GenerosFilmes>?> GetByFilmeId(int filmeId);
         public Task<List<GenerosFilmes>?> GetByGeneroId(int generoId);
 
-        public Task<GenerosFilmes>? Get(int generoId, int filmeId);
+        public Task<GenerosFilmes>? GetById(int generoId, int filmeId);
         public Task<List<GenerosFilmes>> GetAll();
 
         public Task<List<GenerosFilmes>> GetByFilmeName(string filmeName);

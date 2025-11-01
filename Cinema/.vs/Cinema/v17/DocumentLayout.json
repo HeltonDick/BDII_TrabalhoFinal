@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\",
+  "WorkspaceRootPath": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\repository\\salasdocinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\salasdocinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\repository\\isalasdocinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repository\\isalasdocinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\salasdocinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\salasdocinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\427603\\desktop\\bdii_trabalhofinal\\cinema\\cinema\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SalasDoCinemaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\SalasDoCinemaRepository.cs",
-              "RelativeDocumentMoniker": "Cinema\\Repository\\SalasDoCinemaRepository.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\SalasDoCinemaRepository.cs",
-              "RelativeToolTip": "Cinema\\Repository\\SalasDoCinemaRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:40:14.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalasDoCinema.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\SalasDoCinema.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\SalasDoCinema.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\SalasDoCinema.cs",
-              "RelativeToolTip": "Cinema\\Models\\SalasDoCinema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:39:03.32Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -64,15 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISalasDoCinemaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\ISalasDoCinemaRepository.cs",
-              "RelativeDocumentMoniker": "Cinema\\Repository\\ISalasDoCinemaRepository.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Repository\\ISalasDoCinemaRepository.cs",
-              "RelativeToolTip": "Cinema\\Repository\\ISalasDoCinemaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Cinema\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:38:29.04Z",
+              "WhenOpened": "2025-11-01T00:37:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Pessoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cinema\\Views\\Pessoa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\427603\\Desktop\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Pessoa\\Create.cshtml",
+              "RelativeToolTip": "Cinema\\Views\\Pessoa\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T00:24:17.035Z",
               "EditorCaption": ""
             }
           ]

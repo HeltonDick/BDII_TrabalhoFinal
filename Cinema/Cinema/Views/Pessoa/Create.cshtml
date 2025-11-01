@@ -1,5 +1,39 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model Cinema.Models.Pessoa
+
 @{
+    ViewData["Title"] = "Create";
 }
+
+<h1>Criar Nova Pessoa</h1>
+<hr/>
+
+<div class="row">
+
+    <div class="col-md-4">
+
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger">
+                <div class="form-group">
+
+                    <label asp-for="PrimeiroNome">Primeiro Nome</label>
+                    <input type="text" class="form-control" asp-for="PrimeiroNome" />
+
+                    <label asp-for="UltimoNome">Ultimo Nome</label>
+                    <input type="text" class="form-control" asp-for="UltimoNome" />
+
+                    <label asp-for="DataNascimento">Data de nacimento</label>
+                    <input type="date" class="form-control" asp-for="DataNascimento" />
+
+                    <label asp-for="Cpf">CPF</label>
+                    <input type="text" class="form-control" asp-for="Cpf" />
+
+                    <label asp-for="Numero">Numero para contato</label>
+                    <input type="number" class="form-control" asp-for="Numero"/>
+
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+</div>

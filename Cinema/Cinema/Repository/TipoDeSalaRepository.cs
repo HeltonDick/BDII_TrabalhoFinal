@@ -38,7 +38,7 @@ namespace Cinema.Repository
         public Task<List<TipoDeSala>> GetByName(string name)
         {
             var tiposDeSalas = _context.TiposDeSalas
-                .Where(i => i.Name!
+                .Where(i => i.Nome!
                     .ToLower()
                     .Contains(name.ToLower())
                 )

@@ -7,7 +7,7 @@ namespace Cinema.Repository
         public Task Create(Estudio estudio);
         public Task Update(Estudio estudio);
         public Task Delete(Estudio estudio);
-        public Task<Estudio>? Get(int id);
+        public Task<Estudio>? GetById(int id);
         public Task<List<Estudio>> GetAll();
         public Task<List<Estudio>> GetByName(string name);
     }

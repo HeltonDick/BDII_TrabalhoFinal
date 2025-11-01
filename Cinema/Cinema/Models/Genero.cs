@@ -6,7 +6,7 @@ namespace Cinema.Models
     {
         [Key]
         public int Id { get; set; }
-        public string? Name { get; set; }
+        public string? Nome { get; set; }
         public List<GenerosFilmes>? GenerosFilmes { get; set; }
     }
 }

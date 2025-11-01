@@ -38,7 +38,7 @@ namespace Cinema.Repository
         public Task<List<Dimenssao>> GetByName(string name)
         {
             var dimenssao = _context.Dimenssoes
-                .Where(i => i.Name!
+                .Where(i => i.Nome!
                     .ToLower()
                     .Contains(name.ToLower())
                 )

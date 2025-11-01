@@ -7,7 +7,7 @@ namespace Cinema.Repository
         public Task Create(OficiosDePessoas oficioDePessoas);
         public Task Update(OficiosDePessoas oficioDePessoas);
         public Task Delete(OficiosDePessoas oficioDePessoas);
-        public Task<OficiosDePessoas?> Get(int oficioId, int pessoaId );
+        public Task<OficiosDePessoas?> GetById(int oficioId, int pessoaId );
 
         public Task<List<OficiosDePessoas>> GetByPessoaId(int pessoaId);
         public Task<List<OficiosDePessoas>> GetByOficioId(int oficioId);

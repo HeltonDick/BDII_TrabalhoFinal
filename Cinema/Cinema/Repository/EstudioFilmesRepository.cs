@@ -24,7 +24,7 @@ namespace Cinema.Repository
             await _context.SaveChangesAsync();
         }
 
-        public async Task<EstudiosFilmes>? Get(int estudioId, int filmeId)
+        public async Task<EstudiosFilmes>? GetById(int estudioId, int filmeId)
         {
             var estudioFilmes = await _context.EstudiosFilmes
                 .Include(ef => ef.Estudio)
