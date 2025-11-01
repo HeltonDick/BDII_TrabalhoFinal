@@ -30,6 +30,32 @@
                     <label asp-for="Numero">Numero para contato</label>
                     <input type="number" class="form-control" asp-for="Numero"/>
 
+                    <label asp-for="Sexo">Sexo</label>
+                    <select asp-for="SexoId" class="form-control" asp-items="ViewBag.Sexos">
+                        <option value="">Selecione o sexo</option>
+                    </select>
+
+                    <hr/>
+                    <h3>Endereço</h3>
+
+                    <label asp-for="Endereco.Rua1">Rua</label>
+                    <input type="text" class="form-control" asp-for="Endereco.Rua1" />
+
+                    <label asp-for="Endereco.Rua2">Cidade</label>
+                    <input type="text" class="form-control" asp-for="Endereco.Rua2" />
+
+                    <label asp-for="Endereco.Bairro">Bairro</label>
+                    <input type="text" class="form-control" asp-for="Endereco.Bairro" />
+
+                    <label asp-for="Endereco.Cep">CEP</label>
+                    <input type="number" class="form-control" asp-for="Endereco.Cep" />
+
+                    <label asp-for="Endereco.Logradouro">Logradouro</label>
+                    <input type="text" class="form-control" asp-for="Endereco.Logradouro" />
+
+                    <label asp-for="Endereco.Referencia">Referencia</label>
+                    <input type="text" class="form-control" asp-for="Endereco.Referencia" />
+
                 </div>
             </div>
         </form>
