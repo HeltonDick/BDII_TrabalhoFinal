@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\controllers\\tipodesalacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\controllers\\tipodesalacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\controllers\\sexocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\controllers\\sexocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\tipodesala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\tipodesala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|c:\\users\\helto\\onedrive\\\u00E1rea de trabalho\\bdii_trabalhofinal\\cinema\\cinema\\controllers\\idiomacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB68055C-0B90-49A0-96DB-88B63BA60DD6}|Cinema\\Cinema.csproj|solutionrelative:cinema\\controllers\\idiomacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PessoaController.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\PessoaController.cs",
-              "RelativeDocumentMoniker": "Cinema\\Controllers\\PessoaController.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\PessoaController.cs",
-              "RelativeToolTip": "Cinema\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T21:37:08.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sexo.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Sexo.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Sexo.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Sexo.cs",
-              "RelativeToolTip": "Cinema\\Models\\Sexo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T21:20:17.535Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -72,41 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Endereco.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Endereco.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Endereco.cs",
-              "RelativeToolTip": "Cinema\\Models\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TipoDeSalaController.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\TipoDeSalaController.cs",
+              "RelativeDocumentMoniker": "Cinema\\Controllers\\TipoDeSalaController.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\TipoDeSalaController.cs",
+              "RelativeToolTip": "Cinema\\Controllers\\TipoDeSalaController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T20:13:51.653Z",
+              "WhenOpened": "2025-11-03T21:04:00.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Pessoa\\Create.cshtml",
-              "RelativeDocumentMoniker": "Cinema\\Views\\Pessoa\\Create.cshtml",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Views\\Pessoa\\Create.cshtml",
-              "RelativeToolTip": "Cinema\\Views\\Pessoa\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-01T00:24:17.035Z",
+              "Title": "SexoController.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\SexoController.cs",
+              "RelativeDocumentMoniker": "Cinema\\Controllers\\SexoController.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\SexoController.cs",
+              "RelativeToolTip": "Cinema\\Controllers\\SexoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:53:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoDeSala.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\TipoDeSala.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\TipoDeSala.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\TipoDeSala.cs",
+              "RelativeToolTip": "Cinema\\Models\\TipoDeSala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:57:24.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Cinema\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Models\\Pessoa.cs",
-              "RelativeToolTip": "Cinema\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAnAAAAAAAAAA==",
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Cinema\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Cinema\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T00:37:15.379Z",
+              "WhenOpened": "2025-11-03T20:38:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdiomaController.cs",
+              "DocumentMoniker": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\IdiomaController.cs",
+              "RelativeDocumentMoniker": "Cinema\\Controllers\\IdiomaController.cs",
+              "ToolTip": "C:\\Users\\helto\\OneDrive\\\u00C1rea de Trabalho\\BDII_TrabalhoFinal\\Cinema\\Cinema\\Controllers\\IdiomaController.cs",
+              "RelativeToolTip": "Cinema\\Controllers\\IdiomaController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:37:22.884Z",
               "EditorCaption": ""
             }
           ]
