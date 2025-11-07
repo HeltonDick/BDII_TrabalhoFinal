@@ -2,7 +2,7 @@
 
 namespace Cinema.Repository
 {
-    public interface IOficiosDePessoas
+    public interface IOficiosDePessoasRepository
     {
         public Task Create(OficiosDePessoas oficioDePessoas);
         public Task Update(OficiosDePessoas oficioDePessoas);

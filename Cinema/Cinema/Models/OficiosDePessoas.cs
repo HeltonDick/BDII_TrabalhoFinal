@@ -7,6 +7,9 @@ namespace Cinema.Models
     [PrimaryKey(nameof(PessoaId), nameof(OficioId))]
     public class OficiosDePessoas
     {
+        [Key]
+        public int Id { get; set; }
+
         public int PessoaId { get; set; }
         // Propriedade de Navegação
         [ForeignKey(nameof(PessoaId))]

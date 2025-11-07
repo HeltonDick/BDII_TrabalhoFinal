@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Cinema.Repository
 {
-    public class OficiosDePessoasRepository : IOficiosDePessoas
+    public class OficiosDePessoasRepository : IOficiosDePessoasRepository
     {
         private readonly CinemaContext _context;
 
@@ -19,10 +19,10 @@ namespace Cinema.Repository
             await _context.SaveChangesAsync();
         }
 
-        public Task Delete(OficiosDePessoas oficioDePessoas)
+        public async Task Delete(OficiosDePessoas oficioDePessoas)
         {
             _context.OficiosDePessoas.Remove(oficioDePessoas);
-            return _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
 
         public Task<OficiosDePessoas?> GetById(int oficioId, int pessoaId)
